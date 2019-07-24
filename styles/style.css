@@ -20,8 +20,11 @@ body{
 
 h1{
     font-size: 60px;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
     text-align: center;
-    text-shadow:2px 2px 2px #00539f;
+    text-shadow:3px 3px 1px black;
 
 }
 
@@ -34,7 +37,7 @@ p,li{
 }
 
 img{
-    width: 100%;
+    
     display: block;
     margin: 0 auto;
 
